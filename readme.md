@@ -12,10 +12,13 @@
 8. just use `node index.js` to run code
 9. If you want to use ES moduel import & export, check below Urigo repo
 
+## TS goods
+1. 程式碼自動完成、介面提示、跳轉到定義、重構
 
 ## reference resources
 1. [TypeScript - The Basics - YouTube](https://www.youtube.com/watch?v=ahCwqrYpIuM)
 2. [Urigo/typescript-node-es-modules-example: Latest Typescript and Node - as bare-bone as possible example app](https://github.com/Urigo/typescript-node-es-modules-example)
+3. [泛型 - TypeScript 新手指南](https://willh.gitbook.io/typescript-tutorial/advanced/generics)
 
 ## more resources
 1. Deep Dive https://github.com/basarat/typescript-book
